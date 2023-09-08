@@ -16,7 +16,7 @@ To get a local copy of the code, clone it using git:
 
 ```
 git clone https://github.com/Rameh/react-crud-app.git
-cd crud-app
+cd react-crud-app
 ```
 
 Install dependencies:
